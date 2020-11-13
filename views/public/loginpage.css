@@ -1,0 +1,51 @@
+body{
+	margin:0;
+	padding:0;
+}
+
+#header{
+	background-color: rgb(58,84,156);
+	width: 100%;
+	height: 100px;
+	margin:0;
+	padding:0;
+	display:flex;
+	align-items: center;
+}
+
+#heading{
+	margin-left: 0;
+	margin-right: 0;
+	margin:auto;
+	text-align: center;
+	color:white;
+	font-size:30px;
+}
+
+#spacer{
+	height:70px;
+}
+
+#logincomp{
+	padding-top: 10px;
+	margin-top:500px;
+	background-color: rgb(58,84,156);
+	height: 350px;
+	width: 30%;
+	margin-left: 0;
+	margin-right:0;
+	margin:auto;
+	border-radius: 20px;
+	text-align: center;
+	color:white;
+}
+
+.detail{
+	border-radius: 4px;
+	height:20px;
+}
+
+#loginbtn{
+	height: 30px;
+}
+

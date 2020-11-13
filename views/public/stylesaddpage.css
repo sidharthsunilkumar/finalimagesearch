@@ -1,0 +1,63 @@
+body{
+	margin:0;
+	padding:0;
+}
+
+#header{
+	background-color: rgb(58,84,156);
+	width: 100%;
+	height: 100px;
+	margin:0;
+	padding:0;
+	display:flex;
+	align-items: center;
+}
+
+#heading{
+	margin-left: 0;
+	margin-right: 0;
+	margin:auto;
+	text-align: center;
+	color:white;
+	font-size:30px;
+}
+
+#comp2{
+	padding:60px;
+}
+
+.inputtag{
+	padding:5px;
+	margin:10px;
+	width:300px;
+	left:400px;
+}
+
+.inputlabel{
+	padding:50px;
+}
+
+#in1{
+	margin-left:25px;
+}
+#in2{
+	margin-left:25px;
+}
+#in3{
+	margin-left:25px;
+}
+#in4{
+	margin-left:25px;
+}
+#in5{
+	margin-left:25px;
+}
+
+#addbtn{
+	margin:50px;
+	padding:10px;
+	background-color: rgb(58,84,156);
+	color:white;
+	border-radius:5px;
+	width:80px;
+}
